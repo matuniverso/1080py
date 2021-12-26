@@ -1,2 +1,2 @@
 # 1080py
-Personal random python3 scripts.
+Random python3 scripts.
